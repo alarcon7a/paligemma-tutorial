@@ -18,4 +18,4 @@ Tutorial de uso e inferencia de PaliGemma
 ## Youtube 📺
 🔽🔽🔽🔽🔽🔽🔽🔽 
 
-
+https://youtu.be/oSIy-bH2MaI
