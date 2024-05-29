@@ -12,7 +12,7 @@ Tutorial de uso e inferencia de PaliGemma
 ## Notebook
 🔽🔽🔽🔽🔽🔽🔽🔽 
 
-[Embeddings V3 - Notebook](Embeddings_3_OpenAI.ipynb)
+[PaliGemma - Notebook](PaliGemma.ipynb)
 
 
 ## Youtube 📺
